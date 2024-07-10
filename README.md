@@ -1,3 +1,7 @@
+## TUTORIAL Links:
+Udemy: https://globant.udemy.com/course/mern-ecommerce
+Github: https://github.com/bradtraversy/proshop-v2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
